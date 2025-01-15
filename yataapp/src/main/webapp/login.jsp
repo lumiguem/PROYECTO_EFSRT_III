@@ -91,7 +91,7 @@
                 <h2 class="h4">Iniciar Sesión</h2>
             </div>
             <div class="mb-3">
-                <label for="txtCelular" class="form-label">Celular:</label>
+                <label for="txtCelular" class="form-label">Celular</label>
                 <input type="text" id="txtCelular" name="txtCelular" class="form-control" placeholder="Ingrese nro. Celular" required>
             </div>
             <div class="mb-3">
