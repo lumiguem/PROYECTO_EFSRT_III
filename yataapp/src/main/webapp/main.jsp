@@ -60,6 +60,7 @@
     <nav class="navbar navbar-expand-lg shadow-sm">
         <div class="container-fluid">
             <a class="navbar-brand text-white" href="#">Gestión de Cuentas</a>
+            
         </div>
     </nav>
 

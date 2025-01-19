@@ -10,9 +10,9 @@ public class MySqlConexion {
 		
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver").getDeclaredConstructor().newInstance();
-			String url = "jdbc:mysql://localhost:3306/yata_app?useSSL=false&useTimezone=true&serverTimezone=UTC";
+			String url = "jdbc:mysql://localhost:3306/yata_app_db_v1?useSSL=false&useTimezone=true&serverTimezone=UTC";
 			String user = "root";
-			String pwd = "Moreno@1987";
+			String pwd = "root";
 			con = DriverManager.getConnection(url, user, pwd);
 		} catch (ClassNotFoundException e) {
 			System.out.println("Error driver no instalado" + e.getMessage());
