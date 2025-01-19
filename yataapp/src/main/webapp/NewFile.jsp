@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	
 	<h1>Hola</h1>
+	<h2>Hola 2</h2>
 </body>
 </html>
